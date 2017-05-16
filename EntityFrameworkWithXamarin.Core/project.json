@@ -1,9 +1,9 @@
 ﻿{
   "supports": {},
   "dependencies": {
-    "Microsoft.EntityFrameworkCore.Sqlite": "1.1.0",
+    "Microsoft.EntityFrameworkCore.Sqlite": "1.1.2",
     "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
-    "NETStandard.Library": "1.6.0"
+    "NETStandard.Library": "1.6.1"
   },
   "frameworks": {
     "netstandard1.3": {}
